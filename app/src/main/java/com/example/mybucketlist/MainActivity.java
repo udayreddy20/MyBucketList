@@ -22,6 +22,8 @@ import android.widget.Toast;
 import com.example.mybucketlist.task_database.TaskContract;
 import com.example.mybucketlist.task_database.TaskDatabaseHelper;
 
+
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
