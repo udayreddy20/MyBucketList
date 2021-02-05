@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBucket List</string>
+    <string name="delete_task">Task Completed</string>
+    <string name="add_task">Add Task</string>
+    <string name="dialog_title">Add Task Dialog Box</string>
+    <string name="dialog_message">Adding Task to Bucket</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
