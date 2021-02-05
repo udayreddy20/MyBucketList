@@ -1,0 +1,3 @@
+//rootProject.name='DataFlair To Do List'
+rootProject.name='MyBucket List'
+include ':app'
